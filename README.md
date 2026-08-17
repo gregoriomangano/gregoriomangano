@@ -4,52 +4,57 @@
      alt="Gregorio Mangano"
      width="190">
 
-# Ciao, sono Gregorio Mangano 👋
+# Ciao, sono Gregorio Mangano
 
-**Linux e tecnologia spiegati in modo semplice.**
+**Linux, Windows, intelligenza artificiale e tecnologia spiegati in modo semplice.**
 
 [🌐 Il mio sito](https://www.manganogregorio.it/) ·
 [▶️ Canale YouTube](https://www.youtube.com/@GregorioMangano) ·
-[🐧 M.G Linux Toolbox](https://www.manganogregorio.it/m-g-linux-toolbox/) ·
-[✉️ Contattami](https://www.manganogregorio.it/contatti-gregorio-mangano-mondovi/)
+[✉️ Contatti](https://www.manganogregorio.it/contatti-gregorio-mangano-mondovi/)
 
 </div>
 
 ## Chi sono
 
-Vivo a **Mondovì, in provincia di Cuneo**, e lavoro nel mondo dell’informatica da oltre vent’anni.
+Gregorio Mangano vive a **Mondovì, in provincia di Cuneo**, e lavora nel mondo dell’informatica da oltre vent’anni.
 
-Amo Linux, la tecnologia e la divulgazione semplice.
+Si occupa di Linux, Windows, intelligenza artificiale, programmi, tool e divulgazione tecnologica.
 
-Il mio obiettivo è trasformare funzioni complicate e comandi difficili in spiegazioni e strumenti comprensibili anche per chi è alle prime armi.
+L’obiettivo è rendere comprensibili strumenti e funzioni tecniche anche a chi non è esperto.
 
-Sono anche un padre di famiglia e porto avanti i miei progetti in modo indipendente, unendo esperienza, fantasia e tante prove reali.
+## I miei progetti
 
-## M.G Linux Toolbox
+### M.G Linux Toolbox
 
-Sto creando **M.G Linux Toolbox**, un programma grafico pensato per aiutare gli utenti Linux a usare il proprio computer con maggiore semplicità.
+Utility grafica pensata per rendere più semplici funzioni, configurazioni e operazioni Linux che normalmente richiederebbero l’utilizzo del terminale.
 
-Con M.G Linux Toolbox puoi:
+Repository: [gregoriomangano/mg-linux-toolbox](https://github.com/gregoriomangano/mg-linux-toolbox)
 
-- capire cosa fa ogni funzione;
-- attivare e disattivare impostazioni senza ricordare comandi difficili;
-- provare alcune modifiche fino al riavvio;
-- rendere permanenti le modifiche che funzionano bene;
-- ripristinare i valori precedenti;
-- vedere informazioni chiare sul tuo computer.
+### M.G Windows Toolbox
 
-👉 [Scopri M.G Linux Toolbox](https://www.manganogregorio.it/m-g-linux-toolbox/)
+Toolbox tutto-in-uno per Windows 10 e Windows 11 dedicato alla gestione del PC, manutenzione, applicazioni, strumenti e funzioni utili senza dover ricordare numerosi comandi PowerShell.
+
+Repository: [gregoriomangano/mg-windows-toolbox](https://github.com/gregoriomangano/mg-windows-toolbox)
+
+### M.G Avviatore
+
+Launcher/widget compatto e personalizzabile per Windows.
+
+Permette di tenere rapidamente disponibili programmi e collegamenti, mostrare informazioni CPU, RAM e GPU e utilizzare una piccola interfaccia personalizzabile direttamente sul desktop.
+
+Repository: [gregoriomangano/mg-avviatore](https://github.com/gregoriomangano/mg-avviatore)
 
 ## I miei contenuti
 
 Sul mio canale YouTube pubblico video dedicati a:
 
 - Linux e distribuzioni Linux;
-- programmi utili;
+- Windows;
 - intelligenza artificiale;
-- guide semplici;
+- programmi e tool;
+- tutorial;
 - prove reali;
-- strumenti per rendere la tecnologia più comprensibile.
+- progetti software personali.
 
 ▶️ [Visita il mio canale YouTube](https://www.youtube.com/@GregorioMangano)
 
@@ -57,13 +62,5 @@ Sul mio canale YouTube pubblico video dedicati a:
 
 - 🌐 [Sito web](https://www.manganogregorio.it/)
 - ▶️ [Canale YouTube Gregorio Mangano](https://www.youtube.com/@GregorioMangano)
-- 🐧 [Pagina di M.G Linux Toolbox](https://www.manganogregorio.it/m-g-linux-toolbox/)
-- ✉️ [Pagina dei contatti](https://www.manganogregorio.it/contatti-gregorio-mangano-mondovi/)
-
----
-
-<div align="center">
-
-**Creo contenuti e strumenti pensando soprattutto a chi vuole capire Linux senza sentirsi escluso dalla tecnologia.**
-
-</div>
+- [GitHub](https://github.com/gregoriomangano)
+- ✉️ [Contatti](https://www.manganogregorio.it/contatti-gregorio-mangano-mondovi/)
