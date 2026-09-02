@@ -10,7 +10,7 @@
 
 [🌐 Il mio sito](https://www.manganogregorio.it/) ·
 [▶️ Canale YouTube](https://www.youtube.com/@GregorioMangano) ·
-[✉️ Contatti](https://www.manganogregorio.it/contatti-gregorio-mangano-mondovi/)
+[✉️ Contatti](https://www.manganogregorio.it/#contatti)
 
 </div>
 
@@ -63,4 +63,4 @@ Sul mio canale YouTube pubblico video dedicati a:
 - 🌐 [Sito web](https://www.manganogregorio.it/)
 - ▶️ [Canale YouTube Gregorio Mangano](https://www.youtube.com/@GregorioMangano)
 - [GitHub](https://github.com/gregoriomangano)
-- ✉️ [Contatti](https://www.manganogregorio.it/contatti-gregorio-mangano-mondovi/)
+- ✉️ [Contatti](https://www.manganogregorio.it/#contatti)
