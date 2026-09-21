@@ -36,14 +36,6 @@ Toolbox tutto-in-uno per Windows 10 e Windows 11 dedicato alla gestione del PC, 
 
 Repository: [gregoriomangano/mg-windows-toolbox](https://github.com/gregoriomangano/mg-windows-toolbox)
 
-### M.G Avviatore
-
-Launcher/widget compatto e personalizzabile per Windows.
-
-Permette di tenere rapidamente disponibili programmi e collegamenti, mostrare informazioni CPU, RAM e GPU e utilizzare una piccola interfaccia personalizzabile direttamente sul desktop.
-
-Repository: [gregoriomangano/mg-avviatore](https://github.com/gregoriomangano/mg-avviatore)
-
 ## I miei contenuti
 
 Sul mio canale YouTube pubblico video dedicati a:
